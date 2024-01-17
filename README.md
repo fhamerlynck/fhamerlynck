@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fhamerlynck
 - 👀 I’m interested in python and Ai
 - 🌱 I’m currently learning Google Ai
-- 💞️ I’m looking to collaborate on : Not now, but later on colaborate on Ai topics.
+- 💞️ I’m looking to collaborate on : Ai topics.
 - 📫 How to reach me: frank@sol.support
 - 😄 Pronouns: Frank
 - ⚡ Fun fact: I love running , cycling and hiking
